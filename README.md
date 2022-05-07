@@ -6,8 +6,11 @@ Application-layer-protocol
 * Explanation: 
 实现自己的应用层协议和解析器，使用在tcp上
 
-###启动服务器:  
+### 启动服务器
+```javascript
 node server.js
-
-###启动客户端:  
+```
+### 启动客户端
+```javascript
 node client.js
+```
